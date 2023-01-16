@@ -1,2 +1,2 @@
 # chico
-yoo it,s me again!
+This is my first repository as a full-stack engineer
